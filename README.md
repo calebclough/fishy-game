@@ -4,7 +4,7 @@ Created by: Caleb Clough
 
 ## Description:
 
-Our final project is a rendition of the arcade game "Fishy." The object of the game is for your fish (the blue fish) to
+This is a rendition of the arcade game "Fishy." The object of the game is for your fish (the blue fish) to
 become as big as possible. The game incorporates a school of red fish of varying size swimming across the screen. To gain
 size, the blue fish must "eat" fish. It "eats" fish when it touches another fish. The blue fish may only eat fish of equal 
 or lesser size than it. If the blue fish attempts to eat a fish larger then it, it dies and the game is over.
