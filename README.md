@@ -15,4 +15,4 @@ The game is won when the blue fish is as long as the screen. The console will di
 
 ## Dependancies:
 
-The all files in this respository must be unzipped into the same folder for a C++ complier to be able compile the program.
+The all files in this respository must be unzipped into the same folder for a C++ complier to be able to compile the program.
